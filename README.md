@@ -1,2 +1,4 @@
 # borrowthelight
-Borrow the Light Photography Portfolio
+Borrow the Light Photography Portfolio.
+
+All rights reserved.
